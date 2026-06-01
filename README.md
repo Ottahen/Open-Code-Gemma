@@ -7,7 +7,7 @@ This guide documents a **working setup** using:
 - **llama.cpp** (built from source with PR #21326 template fix + PR #21343 tokenizer fix) instead of Ollama
 - **OpenCode built from source** with PR #16531 tool‑call compatibility layer
 
-Tested on **macOS Apple Silicon** (M1 Max, 32GB) on April 2, 2026.
+Tested on **macOS Apple Silicon** (M1 Max, 32GB) on April 2, 2026. --
 
 ---
 
