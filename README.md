@@ -32,7 +32,7 @@ Stock OpenCode can't recover when a local model:
 - Uses legacy `function_call` format instead of modern `tool_calls`
 
 PR [#16531](https://github.com/anomalyco/opencode/pull/16531) adds a `toolParser` compatibility layer that handles all of these.
-
+...
 ---
 
 ## Prerequisites
@@ -43,3 +43,4 @@ PR [#16531](https://github.com/anomalyco/opencode/pull/16531) adds a `toolParser
 
 ```bash
 brew install git gh cmake bun
+
