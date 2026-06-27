@@ -11,7 +11,7 @@ Tested on **macOS Apple Silicon** (M1 Max, 32GB) on April 2, 2026. --
 
 ---
 
-## Why not Ollama?
+## Why not Ollama? WHY IT HASN'T CHOOSED?
 
 Ollama has three problems with Gemma 4 right now:
 
